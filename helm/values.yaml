@@ -1,0 +1,3 @@
+image:
+  repository: 699475940685.dkr.ecr.ap-south-1.amazonaws.com/docker/calci
+  tag: "IMAGE_TAG_PLACEHOLDER"
